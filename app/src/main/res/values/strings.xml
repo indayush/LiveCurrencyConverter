@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Live Currency Converter</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="Currency">
+        <item>USD($)Dollar</item>
+        <item>INR(₹)Rupee</item>
+        <item>EUR(€)Euro</item>
+        <item>GBP(£)Pound</item>
+        <item>JPY(¥)Yen</item>
+
+
+    </string-array>
+</resources>
